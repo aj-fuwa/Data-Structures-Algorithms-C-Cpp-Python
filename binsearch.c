@@ -1,3 +1,9 @@
+/*
+* Aim: To implement binary search in C
+*
+* Date: 28.Mai 2020
+*/
+
 #include<stdio.h>
 #include<stdlib.h>
 
