@@ -12,3 +12,4 @@ Contains:
 3. Binary Search algorithm- in C: binsearch.c
                             in C++:
                             in Python:
+ 
