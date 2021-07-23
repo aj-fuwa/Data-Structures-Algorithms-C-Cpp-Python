@@ -1,12 +1,17 @@
 # data-structures-c_cpp_python
-Data structures/Algorithms implemented in C, C++, and Python
-Contains:
-1. Linked List - linked_list.c (incomplete)
-                      
-2. Binary Search Tree - bst_practice.c (incomplete)
-                         
-3. Binary Search - binsearch.c
+## C:
+- linked_list_c.c (One-way Linked List)
+- bin_search_c.c (Binary Search)
+- sel_sort_c.c (Selection Sort)
 
-4. Linear + Binary Search - searching_algorithms.py
+## C++:
+- linked_list_cpp.cpp (One-way Linked List)
+- bin_search_cpp.cpp (Binary Search)
+- sel_sort_cpp.cpp (Selection Sort)
+
+## Python: 
+- linked_list_py.py (One-way Linked List)
+- bin_search_py.py (Binary Search)
+- sel_sort_py.py  (Selection Sort)
 
  
