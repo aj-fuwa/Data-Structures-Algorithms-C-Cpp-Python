@@ -1,10 +1,10 @@
 """
-Name: bub_sort_py.py
+Name: sort_bub_py.py
 Aim: To implement Bubble sort in Python
 Date: 25.July 2021
 """
 
-class SortClass():
+class SortClass():  # other sort methods will be implemented in this class
     def bubble_sort(self, a):
         temp = 0
         for i in range(0, len(a)):
