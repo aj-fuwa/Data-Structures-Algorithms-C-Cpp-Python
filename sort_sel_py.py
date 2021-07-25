@@ -1,5 +1,5 @@
 """
-Name: sel_sort_py.py
+Name: sort_sel_py.py
 Aim: To implement Selection sort in Python
 Date: 23.July 2021
 """
