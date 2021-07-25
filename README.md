@@ -16,5 +16,6 @@
 - bin_search_py.py (Binary Search)
 - sort_sel_py.py  (Selection Sort)
 - sort_bub_py.py  (Bubble Sort)
+- sort_ins_py.py  (Insertion Sort)
 
  
