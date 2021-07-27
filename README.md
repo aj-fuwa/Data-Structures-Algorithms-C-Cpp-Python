@@ -1,6 +1,7 @@
 # data-structures-c_cpp_python
 ## C:
 - linked_list_c.c (One-way Linked List)
+- bst_c.c (Binary Search Tree)
 - search_binary_c.c (Binary Search)
 - sort_sel_c.c (Selection Sort)
 - sort_bub_c.c  (Bubble Sort)
