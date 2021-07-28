@@ -3,7 +3,7 @@ Name: bst_py.py
 Aim: To implement Binary Search Tree in Python
 Date: 28.July 2021
 Functions implemented:  creating nodes, adding nodes,
-                        preorder, inorder, postorder,
+                        preorder, inorder, postorder, get max element, get min element
 """
 class Node():
     def __init__(self, data):
