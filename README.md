@@ -14,6 +14,7 @@
 
 ## Python: 
 - linked_list_py.py (One-way Linked List)
+- bst_py.py (Binary Search Tree)
 - search_binary_py.py (Binary Search)
 - sort_sel_py.py  (Selection Sort)
 - sort_bub_py.py  (Bubble Sort)
