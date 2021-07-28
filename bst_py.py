@@ -43,9 +43,30 @@ class BST():
             self.postorder(root.right)
             print("Node: ",root.data)
             
+    def get_max(self, root):
+        temp = root
+        max_elm = 0
+        while (temp.right != None):
+            temp = temp.right
+        max_elm = temp.data
+        print("Maximum element: ",max_elm)
+        return max_elm
+    
+    def get_min(self, root):
+        temp = root
+        min_elm = 0
+        while(temp.left != None):
+            temp = temp.left
+        min_elm = temp.data
+        print("Minimum element: ",min_elm)
+        return min_elm
+    
 if __name__ == "__main__":
     bst = BST()
     root = bst.create_node(20)
     root = bst.add_node(root, 10)
     root = bst.add_node(root, 30)
-    #bst.postorder(root)
+    root = bst.add_node(root, 40)
+    bst.postorder(root)
+    max_elm = bst.get_max(root)
+    min_elm = bst.get_min(root)
