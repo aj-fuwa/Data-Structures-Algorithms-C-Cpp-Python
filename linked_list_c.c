@@ -4,7 +4,7 @@ Aim: To implement a one-way linked list in C
 Date: 23.July 2021
 Functions implemented:  add node at position; add at end; add at beginning;
                         delete node at position; delete the last node; delete the first node;
-                        length of the linked list; print the list; create a new list;
+                        length of the linked list (iterative and recursive); print the list; create a new list;
                         TODO: delete a value; reverse the list; sort the list
 */
 #include<stdio.h>
@@ -131,6 +131,15 @@ int count_nodes(node head){
 		temp = temp->link;
 	}
 	return count;
+}
+
+int count_nodes_rec(node head){
+	if (head == NULL){
+		return 0;
+	}
+	else{
+		return 1 + count_nodes_rec(head->link);	
+	}
 }
 
 int main(void){
