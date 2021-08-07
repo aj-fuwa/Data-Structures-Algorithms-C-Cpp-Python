@@ -1,6 +1,6 @@
 '''
 Name: graph_bfs_py.py
-Aim: To implement Breadth-First-Search graph traversal
+Aim: To implement Breadth-First-Search graph traversal using queue
 Date: 7.August 2021
 '''
 
