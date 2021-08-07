@@ -1,6 +1,6 @@
 '''
 Name: graph_dfs_py.py
-Aim: To implement Depth-First-Search traversal of graph
+Aim: To implement Depth-First-Search traversal of graph using stack
 Date: 7.August 2021
 '''
 class Stack():
