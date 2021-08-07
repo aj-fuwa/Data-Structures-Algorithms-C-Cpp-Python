@@ -19,5 +19,7 @@
 - sort_sel_py.py  (Selection Sort)
 - sort_bub_py.py  (Bubble Sort)
 - sort_ins_py.py  (Insertion Sort)
+- graph_dfs_py.py (Depth First Search traversal of the graph)
+- graph_bfs_py.py (Breadth First Search traversal of the graph)
 
  
