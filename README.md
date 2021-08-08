@@ -21,5 +21,6 @@
 - sort_ins_py.py  (Insertion Sort)
 - graph_dfs_py.py (Depth First Search traversal of the graph)
 - graph_bfs_py.py (Breadth First Search traversal of the graph)
+- graph_has_path_py.py (Check if a path exists between two nodes in a graph)
 
  
